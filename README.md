@@ -2,7 +2,7 @@
 ### Your are always welcomed with love :heart_eyes: 
 - 🌱 I’m currently learning Angular JS.
 - 💬 Let's discuss any programming related topic.
-- 📫 How to reach me: (https:yahia.yt@gmail.com).
+- 📫 How to reach me: yahia.yt@gmail.com.
 - :blush: I wish to help you, feel free to ask.
 <!--
 **yahiatarek/yahiatarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
