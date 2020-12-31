@@ -8,7 +8,12 @@
 
 
 ### Skills:
-- [![Bootstrap](https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-16x16.png)](https://getbootstrap.com/docs/5.0/)
+- [![Bootstrap](https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-16x16.png)](https://getbootstrap.com/docs/5.0/) 
+-[![Javascript ES6](https://lh3.googleusercontent.com/aqHESUqTqRPHiXU9JMGyNBHQFD6HZRUFnPZNqGKF5ml1BQDSHnPuVdWyOiMFrwCv_RIH=s85)](https://w3schools.com/html) 
+- [![HTML](https://lh3.googleusercontent.com/DK1t4mpG4ADe5RVH1tZCU5EmlBRDFAkYl4RjsHQ-2Ng57_0kx__GOnkARZucclnaB7cbpA=s85)](https://javascript.com)
+- [![Bootstrap](https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-16x16.png)](https://getbootstrap.com/docs/5.0/) Jquery
+- [![CSS](https://lh3.googleusercontent.com/JazPT_gmEfKE85SOHKzUfwm-EEOQ-_ZXW0F3XJHz9fZvqVrgCMWBv9rcK2BzgOe1JWDCZQ=s85)](https://w3schools.com/css)  
+- [![GIThub & GIT](https://github.githubassets.com/favicons/favicon.png)](https://github.com)
 
 <!--
 **yahiatarek/yahiatarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
