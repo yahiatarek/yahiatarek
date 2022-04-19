@@ -1,7 +1,9 @@
 ### Hey Developers 👋
 ### Your are always welcomed with love :heart_eyes: 
-- 💬 Let's discuss any programming related topic.
-- 📫 How to reach me: yahia.yt@gmail.com.
+- 💬 Let's connect.
+- 📫 How to contact me: 
+  - yahia.yt@gmail.com.
+  - https://www.linkedin.com/in/yahia-tarek-62b0ba16b/
 
 
 
