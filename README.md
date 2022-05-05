@@ -1,31 +1,31 @@
-### Hey Developers 👋
-### Your are always welcomed with love :heart_eyes: 
-- 💬 Let's connect.
-- 📫 How to contact me: 
-  - yahia.yt@gmail.com.
-  - https://www.linkedin.com/in/yahia-tarek-62b0ba16b/
+<h1 align="center">Hi 👋, I'm Yahia</h1>
+<h3 align="center">A passionate Lerner in Tech.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahiatarek&label=Profile%20views&color=0e75b6&style=flat" alt="yahiatarek" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahiatarek" alt="yahiatarek" /></a> </p>
 
-<!--### Skills:
-- [![Bootstrap](https://lh3.googleusercontent.com/M8nHH8YMQpqvCzPRHK4cGOA6nRTrZPhs6Y0CNm1Bf1jmK0ci7LSb7g9fBmCza-x4FcophQ=s85)](https://getbootstrap.com/docs/5.0/) 
-- [![Javascript ES6](https://lh3.googleusercontent.com/aqHESUqTqRPHiXU9JMGyNBHQFD6HZRUFnPZNqGKF5ml1BQDSHnPuVdWyOiMFrwCv_RIH=s85)](https://w3schools.com/html) 
-- [![HTML](https://lh3.googleusercontent.com/DK1t4mpG4ADe5RVH1tZCU5EmlBRDFAkYl4RjsHQ-2Ng57_0kx__GOnkARZucclnaB7cbpA=s85)](https://javascript.com)
-- [![Jquery](https://icon2.cleanpng.com/20180718/hyb/kisspng-logo-brand-jquery-in-easy-steps-create-dynamic-we-jquery-logo-5b4fe3404538e6.0014188915319621762835.jpg)](https://Jquery.com) 
-- [![CSS](https://lh3.googleusercontent.com/JazPT_gmEfKE85SOHKzUfwm-EEOQ-_ZXW0F3XJHz9fZvqVrgCMWBv9rcK2BzgOe1JWDCZQ=s85)](https://w3schools.com/css)  
-- [![GIThub & GIT](https://github.githubassets.com/favicons/favicon.png)](https://github.com)-->
+- 🔭 I’m currently working on [Depot](https://www.depot-online.de/de)
 
-<!--
-**yahiatarek/yahiatarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Reactjs, Node.js**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **yahia.yt@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences [https://drive.google.com/file/d/1H66sqgG357AFNS6ZqGKCCi3XN0SJopZZ/view?usp=sharing](https://drive.google.com/file/d/1H66sqgG357AFNS6ZqGKCCi3XN0SJopZZ/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yahia-tarek-62b0ba16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yahia-tarek-62b0ba16b/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15208581/yahia-tarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15208581/yahia-tarek" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/yahia.tarek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yahia.tarek/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/yahia.tarek94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yahia.tarek94/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahiatarek&show_icons=true&locale=en&layout=compact" alt="yahiatarek" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahiatarek&show_icons=true&locale=en" alt="yahiatarek" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiatarek&" alt="yahiatarek" /></p>
