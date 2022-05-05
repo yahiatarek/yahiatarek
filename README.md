@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Node.js**
 
-- 📫 How to reach me **https://linkedin.com/in/https://www.linkedin.com/in/yahia-tarek-62b0ba16b/**
+- 📫 How to reach me **https://www.linkedin.com/in/yahia-tarek-62b0ba16b/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1H66sqgG357AFNS6ZqGKCCi3XN0SJopZZ/view?usp=sharing](https://drive.google.com/file/d/1H66sqgG357AFNS6ZqGKCCi3XN0SJopZZ/view?usp=sharing)
 
