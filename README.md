@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on [Depot](https://www.depot-online.de/de)
 
-- 🌱 I’m currently learning **Reactjs, Node.js**
-
 - 📫 How to reach me **https://www.linkedin.com/in/yahia-tarek-62b0ba16b/**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R2B2NXz3e5i1ZPwD2oi36BAy9gGrzk29/view?usp=sharing](https://drive.google.com/file/d/1R2B2NXz3e5i1ZPwD2oi36BAy9gGrzk29/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
