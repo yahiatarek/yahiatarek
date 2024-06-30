@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahiatarek" alt="yahiatarek" /></a> </p>
 
-- 🔭 I’m currently working on [Zeiss](https://www.zeiss.de)
+- 🔭 I’m currently working on [Secacam App](https://secacam-webapp.zeiss.com/de/login)
 
 - 📫 How to reach me **https://www.linkedin.com/in/yahia-tarek-62b0ba16b/**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yahia-tarek-62b0ba16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yahia-tarek-62b0ba16b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15208581/yahia-tarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15208581/yahia-tarek" height="30" width="40" /></a>
-<a href="https://yehiatarek.com" target="blank">Website</a>
+<a href="https://yehiatarek.com" target="blank">yehiatarek.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
